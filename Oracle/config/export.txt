@@ -1,0 +1,5 @@
+export MQMDIR=/opt/mqm
+export PATH=$MQMDIR/bin:$MQMDIR/samp/bin:$PATH
+
+export LIBPATH=$MQMDIR/lib:$LIBPATH
+export LD_LIBBARY_PATH=$MQMDIR/lib:$LD_LIBBARY_PATH

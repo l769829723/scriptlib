@@ -1,0 +1,14 @@
+kernel.shmall = 268435456
+kernel.shmmax = 2147483648
+kernel.shmmni = 4096
+kernel.sem = 500 256000 250 1024
+fs.file-max = 524300
+net.ipv4.ip_local_port_range = 1024 65000
+net.core.rmem_default = 262144
+net.core.rmem_max = 262144
+net.core.wmem_default = 262144
+net.core.wmem_max = 262144
+fs.mqueue.msg_max = 1000
+fs.mqueue.msgsize_max = 8192
+net.ipv4.tcp_keepalive_time = 300
+

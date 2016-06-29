@@ -1,0 +1,5 @@
+*	soft	nproc	80000
+*	hard	nproc	81920
+*	soft	nofile	65000
+*	hard	nofile	65536
+
